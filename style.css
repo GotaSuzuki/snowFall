@@ -3,6 +3,15 @@
   padding: 0;
 }
 
+.snow-container h1 {
+  color: brown;
+  font-size: 140px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 .snow-container {
   background-image: url("images/snowfall.jpg");
   width: 100%;
